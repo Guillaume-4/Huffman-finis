@@ -1,6 +1,3 @@
-﻿
-from operator import attrgetter
-
 class NOEUD:
     def __init__(self,gauche, carac, valeur,droite):
         self.carac = carac
